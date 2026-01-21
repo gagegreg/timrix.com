@@ -1,0 +1,22 @@
+.intro-section {
+    padding: var(--spacing-xl) var(--spacing-md);
+    background: var(--bg-primary);
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.intro-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: var(--spacing-md);
+    color: var(--text-primary);
+}
+
+.intro-section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+}
