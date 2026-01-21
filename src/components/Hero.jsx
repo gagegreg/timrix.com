@@ -10,7 +10,7 @@ function Hero() {
                 <div className="hero-overlay"></div>
             </div>
             <div className="hero-content">
-                <h1 className="hero-title">TIMTRIX</h1>
+                <h1 className="hero-title">TimRix</h1>
                 <p className="hero-subtitle">ELEVATING PERSPECTIVES</p>
                 <div className="hero-actions">
                     <Link to="/projects" className="btn btn-primary">View Projects</Link>

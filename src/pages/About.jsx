@@ -4,7 +4,7 @@ import aboutImg from '../assets/about.png';
 function About() {
     return (
         <div className="page-content container">
-            <h1 className="page-title">About TimTrix</h1>
+            <h1 className="page-title">About TimRix</h1>
 
             <div className="about-grid">
                 <div className="about-image">
@@ -15,7 +15,7 @@ function About() {
                     <h2>Elevating Visual Storytelling</h2>
                     <p>
                         Tim Coons is a visionary drone operator and cinematographer specializing in FPV and cinematic aerial footage.
-                        With years of experience in broadcast and film, TimTrix brings a unique perspective to every project.
+                        With years of experience in broadcast and film, TimRix brings a unique perspective to every project.
                     </p>
                     <p>
                         From high-speed chases to sweeping landscapes, we push the boundaries of what is possible with drone technology.

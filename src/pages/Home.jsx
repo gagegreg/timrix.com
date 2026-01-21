@@ -9,7 +9,7 @@ function Home() {
                 <div className="container">
                     <h2>Creative Aerial Cinematography</h2>
                     <p>
-                        TimTrix specializes in capturing the world from unique perspectives.
+                        TimRix specializes in capturing the world from unique perspectives.
                         With high-performance FPV drones and cinema-grade equipment,
                         we deliver breathtaking visuals for film, broadcast, and events.
                     </p>

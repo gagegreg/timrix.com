@@ -4,7 +4,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <p>&copy; {new Date().getFullYear()} TimTrix. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} TimRix LLC. All rights reserved.</p>
                 <div className="footer-links">
                     {/* Social placeholders */}
                     <span className="social-icon">IG</span>
